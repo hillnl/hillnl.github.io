@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Portfolio"
+  - title: "Trips"
     url: /portfolio/
+  - title: "Madrid"
+    url: /madrid/
   - title: "About"
     url: /_pages/about
   # - title: "Sample Posts"
