@@ -1,5 +1,5 @@
 ---
-title: "Nicole's Adventures Abroad"
+title: "Adventures Abroad"
 subtitle: "Tips for your Trips"
 layout: splash
 header:
@@ -9,7 +9,9 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "My recommendations for where to travel and what to do while studying abroad."
+excerpt: "#Tips for your trips
+
+My recommendations for where to travel and what to do while studying abroad."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
