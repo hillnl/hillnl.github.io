@@ -1,18 +1,16 @@
 ---
 
-title: "About David Florian"
+title: "About Nicole Hill"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Nicole is a senior at Vanderbilt University majoring in Economics and Math. She studied abroad spring semester of 2024 in Madrid, Spain, attending UC3M.  
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Economics
+  * BS Mathematics
 
 ## Technical Skills
 
