@@ -1,6 +1,5 @@
 ---
 title: "Adventures Abroad"
-subtitle: "Tips for your Trips"
 layout: splash
 header:
   overlay_color: "#000"
@@ -9,9 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "#Tips for your trips
-
-My recommendations for where to travel and what to do while studying abroad."
+excerpt: "My recommendations for where to travel and what to do while studying abroad."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
