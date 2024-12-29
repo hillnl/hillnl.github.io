@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/Home-Banner-Image.jpeg
   actions:
-    - label: "My Projects"
+    - label: "My Trips"
       url: "/portfolio/"
 excerpt: "My recommendations for where to travel and what to do while studying abroad."
 feature_row:
