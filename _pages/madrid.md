@@ -2,7 +2,7 @@
 title: Madrid
 layout: collection
 permalink: /madrid/
-collection: portfolio
+collection: madrid
 entries_layout: grid
 classes: wide
 ---
