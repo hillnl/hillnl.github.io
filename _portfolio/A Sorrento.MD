@@ -29,6 +29,9 @@ Overall rating: 10/10. I LOVE Sorrento!! This was one of my favorite trips of al
 ## Restaurants
 * Frankie’s Pizza Bar: incredible pizza and pasta, and the best meatballs ever! Frankie was our airbnb host, and he’s the BEST! He gave us free shots of limoncello because we stayed with him, and he was so fun to talk to. We literally ate here 2 out of our 3 nights because it was so good!
 
+## Transportation
+* We were able to walk everywhere in Sorrento, and then or took buses or trains to get to most of the activities or day trips.
+
 ## Other
 * Villa Comunale di Sorrento: cute little park in the middle of Sorrento. Great place to watch the sunset. 
 
