@@ -16,7 +16,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-# Sorrento 
 ## Activities
 * Bagno Regina Giovanna: super pretty little cove about an hour walk from Sorrento! Apparently a queen used to bathe here and that's who it's named after. It also had some remains of a Roman village. The water was really cold, but the views were so pretty, and it was so fun to swim around.
 * Path of the Gods/Il Sentiero Degli Dei: insanely beautiful hike where cliffs meet the ocean. This is the path that ancient Romans took to get from Bomerano to Nocelle (the towns we started and ended in). It was definitely one the prettiest hikes I’ve ever done, but it wasn’t easy. It took us about 3 hours to do the hike itself, and then you have to walk down 1700 steps and walk a while further to get from Nocelle to Positano. As a whole, it took us 4-5 hours but the views were amazing, and we had an incredible time! Be warned though, we talked to some locals and apparently they don’t do it because a few people die each year doing it. Just be careful and you’ll be fine, but you are fully just walking along the side of a cliff. 
