@@ -2,7 +2,7 @@
 title: "Sorrento"
 excerpt: "Sorrento was one of my favorite trips of all of study abroad. The locals were so friendly and chatty, the town was really cute and walkable, and there was so much to do!"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
+  image: /assets/img/Sorrento1.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
