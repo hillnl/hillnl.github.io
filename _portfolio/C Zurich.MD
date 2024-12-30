@@ -26,11 +26,11 @@ Overall rating: 6/10. There honestly wasn’t a ton to do in Zurich so I’m gla
 ## Hostel
 * Zurich Youth Hostel: we were only there for one night and it worked perfectly! It was pretty cheap and had free breakfast in the morning which was really nice because Switzerland is more expensive.
 
-
 ## Transportation
-
+* We took buses to get to most places, and we took a train to get from Zurich to Interlaken. Buy your bus and train tickets because they will check, and one of my friends got a $150 fine for not having a ticket. 
 
 ## Other
+* We were trying to save money on this trip because Switzerland is so expensive, so we just went to Coop (the grocery store) for meals which worked out really well! I recommend saving money on food because apparently Swiss food isn’t that good (other than chocolate and fondue). 
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
