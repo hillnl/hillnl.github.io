@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/Sorrento1.jpg
 gallery:
   - url: /assets/img/pathgods1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
+    image_path: assets/img/pathgods1.jpg
     alt: "placeholder image 1"
   - url: /assets/img/Cyber-Scooter-2.jpg
     image_path: assets/img/Cyber-Scooter-2.jpg
