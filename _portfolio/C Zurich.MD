@@ -5,15 +5,9 @@ header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - image_path: assets/img/Cyber-Scooter-1.jpg
+  - image_path: assets/img/Cyber-Scooter-2.jpg
+  - image_path: assets/img/Cyber-Scooter-3.jpg
 ---
 
 ## Overall
@@ -32,5 +26,6 @@ Overall rating: 6/10. There honestly wasn’t a ton to do in Zurich so I’m gla
 ## Other
 * We were trying to save money on this trip because Switzerland is so expensive, so we just went to Coop (the grocery store) for meals which worked out really well! I recommend saving money on food because apparently Swiss food isn’t that good (other than chocolate and fondue). 
 
+## Photo Gallery
+{% include gallery %}
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
