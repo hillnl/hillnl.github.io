@@ -1,5 +1,5 @@
 ---
-title: "Lisbon"
+title: "Lisbon, Portugal"
 excerpt: "Lively, affordable city known for its colorful tiled buildings and its hills with stunning views."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
