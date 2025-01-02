@@ -4,26 +4,44 @@ title: "About Nicole Hill"
 
 ---
 
-## Education
+## Backround
 
-Nicole is a senior at Vanderbilt University majoring in Economics and Math. She studied abroad spring semester of 2024 in Madrid, Spain, attending UC3M.  
+Nicole is a senior at Vanderbilt University majoring in Economics and Math. She studied abroad spring semester of 2024 in Madrid, Spain, attending UC3M. She was also born in Madrid and lived there for ten years before moving to Colorado. 
 
-* Vanderbilt University
-  * BS Economics
-  * BS Mathematics
 
-## Technical Skills
+## Countries I visited while abroad
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+1. Spain
+2. Hungary 
+3. Czech Republic
+4. Switzerland
+5. Ireland
+6. Italy
+7. Vatican City
+8. Portugal
+9. Morocco
+10. Malta
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+## Cities I visited while abroad 
 
-## Press 
+1. Madrid
+2. Granada
+3. Budapest
+4. Prague
+5. Toledo
+6. Zurich
+7. Interlaken
+8. Dublin
+9. Sorrento
+10. Positano
+11. Pompeii
+12. Rome
+13. Florence
+14. Vatican City
+15. Lisbon
+16. Marrakech
+17. Fes
+18. St. Julian's
+19. Valletta
+20. Denia
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
