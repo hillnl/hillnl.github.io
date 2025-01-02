@@ -1,6 +1,6 @@
 ---
 title: "Sorrento, Italy"
-excerpt: "Beautiful seaside town with friendly locals and so much to do!"
+excerpt: "Beautiful seaside town with friendly locals and lots to explore."
 header:
   image: /assets/img/Sorrento2.jpg
   teaser: /assets/img/Sorrento1.jpg
