@@ -5,6 +5,7 @@ header:
   image: /assets/img/Sorrento2.jpg
   teaser: /assets/img/Sorrento1.jpg
 gallery:
+  -title: "Gallery"
   - url: /assets/img/Sorrento3.jpg
     image_path: assets/img/Sorrento3.jpg
   - url: /assets/img/Sorrento4.jpg
