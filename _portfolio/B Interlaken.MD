@@ -1,6 +1,6 @@
 ---
 title: "Interlaken, Switzerland"
-excerpt: "One of my favorite trips I've ever taken. Sorrento is such a cute town surrounded by beautiful mountains and two stunning lakes on either side. "
+excerpt: "Scenic mountain town with beautiful nature and so much to do!"
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
