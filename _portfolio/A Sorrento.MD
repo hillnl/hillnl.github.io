@@ -41,4 +41,5 @@ Overall rating: 10/10. I LOVE Sorrento!! This was one of my favorite trips of al
 * Villa Comunale di Sorrento: cute little park in the middle of Sorrento. Great place to watch the sunset. 
 
 ## Gallery
+{% include gallery %}
 
