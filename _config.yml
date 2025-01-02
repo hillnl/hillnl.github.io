@@ -200,7 +200,7 @@ defaults:
   # _madrid
   - scope:
       path: "_madrid"
-      type: portfolio
+      type: madrid
     values:
       layout: single
       author_profile: false
