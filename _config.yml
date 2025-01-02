@@ -197,6 +197,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _madrid
+  - scope:
+      path: "_madrid"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 
 # Sass/SCSS
