@@ -15,7 +15,7 @@ feature_row:
   - image_path: assets/img/Chulapas.jpg
     alt: "Madrid picture"
     title: "Madrid, Spain"
-    excerpt: "I was born in Madrid and lived there until I was 10. I went to a traditional, Spanish school and used to speak better Spanish than English."
+    excerpt: "I was born in Madrid and lived there until I was 10. I returned to Madrid for my semester abroad and got to rediscover the city as an adult!"
   - image_path: assets/img/Colorado.jpg
     alt: "Skiing picture"
     title: "Denver, Colorado"
