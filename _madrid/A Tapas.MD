@@ -4,15 +4,6 @@ excerpt: "My favorite tapas/Spanish food restaurants."
 header:
   image: assets/img/Tapas.jpg
   teaser: assets/img/Paella.jpg
-gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
 
 ---
 
@@ -29,4 +20,3 @@ gallery:
 * 100 Montaditos: super cheap tapas place and very casual; they have a menu of like 100 different bocadillos (small sandwiches). You can also get a super cheap jarra de sangria! My favorite bocadillos to order (I would recommend getting 2-3 for lunch): Jamón Gran Reserva, tomate y aceite de oliva virgen extra; jamón gran reserva y queso madurado; tortilla de patata y salsa aioli. 
  
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
