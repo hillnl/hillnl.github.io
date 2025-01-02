@@ -1,5 +1,5 @@
 ---
-title: "Interlaken"
+title: "Interlaken, Switzerland"
 excerpt: "One of my favorite trips I've ever taken. Sorrento is such a cute town surrounded by beautiful mountains and two stunning lakes on either side. "
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
