@@ -1,6 +1,6 @@
 ---
 title: "Interlaken, Switzerland"
-excerpt: "Scenic mountain town with beautiful nature and so much to do!"
+excerpt: "Scenic mountain town with beautiful nature and so much to do."
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
