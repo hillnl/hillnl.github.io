@@ -2,8 +2,8 @@
 title: "Tapas Restaurants"
 excerpt: "My favorite tapas/Spanish food restaurants."
 header:
-  image: assets/img/IMG_paella.jpg
-  teaser: assets/img/IMG_paella.jpg
+  image: assets/img/Tapas.jpg
+  teaser: assets/img/Paella.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
