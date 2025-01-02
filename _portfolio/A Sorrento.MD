@@ -1,6 +1,6 @@
 ---
 title: "Sorrento, Italy"
-excerpt: "Sorrento was one of my favorite trips of all of study abroad. The locals were so friendly and chatty, the town was really cute and walkable, and there was so much to do!"
+excerpt: "Beautiful seaside town with friendly locals and so much to do!"
 header:
   image: /assets/img/Sorrento2.jpg
   teaser: /assets/img/Sorrento1.jpg
