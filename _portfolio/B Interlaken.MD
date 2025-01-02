@@ -7,8 +7,10 @@ header:
 gallery:
   - url: /assets/img/Sorrento3.jpg
     image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - url: /assets/img/Sorrento3.jpg
+    image_path: assets/img/Slide-2.png
+  - url: /assets/img/Sorrento3.jpg
+    image_path: assets/img/Slide-4.png
    
 ---
 
