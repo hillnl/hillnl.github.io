@@ -1,6 +1,6 @@
 ---
 title: "Florence"
-excerpt: " "
+excerpt: "Beautiful, walkable, and artistic city that was the starting point of the Renaissance."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
