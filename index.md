@@ -14,7 +14,7 @@ feature_row:
     alt: "Madrid picture"
     title: "Madrid, Spain"
     excerpt: "I was born in Madrid and lived there until I was 10. I went to a traditional, Spanish school and used to speak better Spanish than English."
-  - image_path: assets/img/Coloradoskiing.jpg
+  - image_path: assets/img/Colorado.jpg
     alt: "Skiing picture"
     title: "Denver, Colorado"
     excerpt: "From Spain, I moved to Denver and lived there until college. I love the mountains and skiing!"
