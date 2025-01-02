@@ -9,7 +9,8 @@ header:
     - label: "My Trips"
       url: "/portfolio/"
 excerpt: "My recommendations for where to travel and what to do while studying abroad."
-feature_title: "My Home Bases:"
+feature_row: 
+- title: "My Home Bases" type="center"
 feature_row:
   - image_path: assets/img/Chulapas.jpg
     alt: "Madrid picture"
