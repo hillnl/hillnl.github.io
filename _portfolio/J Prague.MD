@@ -1,6 +1,6 @@
 ---
 title: "Prague, Czech Republic"
-excerpt: "Picturesque city with a fun nightlife."
+excerpt: "Picturesque fairytale-like city with a fun nightlife."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
