@@ -13,6 +13,16 @@ gallery:
     image_path: assets/img/Bagni2.jpg
   - url: /assets/img/Bagni3.jpg
     image_path: assets/img/Bagni3.jpg
+  - url: /assets/img/Capri2.jpg
+    image_path: assets/img/Capri2.jpg
+  - url: /assets/img/Capri3.jpg
+    image_path: assets/img/Capri3.jpg
+  - url: /assets/img/Capri4.jpg
+    image_path: assets/img/Capri4.jpg
+  - url: /assets/img/Capri5.jpg
+    image_path: assets/img/Capri5.jpg
+  - url: /assets/img/Capri6.jpg
+    image_path: assets/img/Capri6.jpg
 ---
 
 ## Overall
@@ -29,6 +39,9 @@ Overall rating: 10/10. I LOVE Sorrento!! This was one of my favorite trips of al
 
 * Capri boat tour: this boat tour was so fun!! The boat driver took us inside these cool caves, and we got to see the famous arches next to Capri. Then we docked and got to explore Capri for 4 hours! The first two hours we spent on this one area of the island where we took a lift up the mountain and got to see beautiful views of the town, which I would definitely recommend doing. Then, we spent another hour on the main part of Capri, and we ended up exploring and randomly finding this amazing viewpoint that was super far up and completely secluded. Then we headed back to Sorrento on the boat and stopped at a spot to swim in the beautiful water!
   * This is the [boat tour](https://www.viator.com/tours/Sorrento/Capri-Boat-Tour-for-Small-Groups-from-Sorrento/d947-136733P1) that we booked, and we really liked it! It was a group boat tour though, so there were 10 people on our boat, and I feel like you could get unlucky/lucky depending on who the other people are. 
+
+![Capri](/assets/img/Capri1.jpg)
+
 * Day trip to Pompeii: I’m so glad we went and got to see Pompeii. It was so much bigger than I imagined, so I feel like we only got to see a small portion of it. We ended up buying the audio guide, and I think that was really worth it to learn the history. It was just a quick train ride away from Sorrento, so it worked out really well as a day trip!
 
 ## Restaurants
