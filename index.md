@@ -10,18 +10,17 @@ header:
       url: "/portfolio/"
 excerpt: "My recommendations for where to travel and what to do while studying abroad."
 feature_row:
-  - title: "Where I've lived:"
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
     title: "Madrid, Spain"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    excerpt: "I was born in Madrid and lived there until I was 10. I went to a traditional, Spanish school and used to speak better Spanish than English."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "Denver, Colorado"
+    excerpt: "From Spain, I moved to Denver and lived there until college. I love the mountains and skiing!"
   - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Nashville, Tennessee"
+    excerpt: "I am a senior at Vanderbilt and love all that Nashville has to offer!"
 ---
 
 {% include feature_row %}
