@@ -1,5 +1,5 @@
 ---
-title: "Zurich"
+title: "Zurich, Switzerland"
 excerpt: "There wasn't a ton to do in Zurich, but it was fun to walk around for a day and then take a train to Interlaken."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
