@@ -14,6 +14,7 @@ gallery:
   - url: /assets/img/Cyber-Scooter-3.jpg
     image_path: assets/img/Cyber-Scooter-3.jpg
     alt: "placeholder image 3"
+
 ---
 
 * Lateral: my favorite tapas place! These are all over the city and are a little nicer. My favorite things to order: croquetas (my favorite croquetas!), tosta de solomillo y brie, tosta de jamón con tomate, the artichoke hearts, tosta de queso de cabra con mermelada, the patatas bravas. 
