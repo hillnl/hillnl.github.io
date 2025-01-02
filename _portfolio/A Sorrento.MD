@@ -5,7 +5,6 @@ header:
   image: /assets/img/Sorrento2.jpg
   teaser: /assets/img/Sorrento1.jpg
 gallery:
-  -title: "Gallery"
   - url: /assets/img/Sorrento3.jpg
     image_path: assets/img/Sorrento3.jpg
   - url: /assets/img/Sorrento4.jpg
@@ -41,4 +40,5 @@ Overall rating: 10/10. I LOVE Sorrento!! This was one of my favorite trips of al
 ## Other
 * Villa Comunale di Sorrento: cute little park in the middle of Sorrento. Great place to watch the sunset. 
 
-{% include gallery title="Gallery" %}
+## Gallery
+
