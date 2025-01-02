@@ -29,4 +29,5 @@ Overall rating: 10/10. I LOVE Interlaken so much!! Such a cute town surrounded b
 ## Other
 * We were trying to save money on this trip because Switzerland is so expensive, so we just went to Coop (the grocery store) for meals which worked out really well! I recommend saving money on food because apparently Swiss food isn’t that good (other than chocolate and fondue). 
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+## Photo Gallery
+{% include gallery %}
