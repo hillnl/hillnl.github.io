@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Adventures Abroad"
 title_separator          : "-"
-subtitle                 : "Tips for Trips"
+subtitle                 : "Tips for your Trips"
 name                     : &name "Nicole Hill" # &name is a YAML anchor which can be *referenced later
 description              : &description "Adventures Abroad"
 url                      : https://hillnl.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
