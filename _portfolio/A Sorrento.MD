@@ -24,7 +24,7 @@ gallery:
   - url: /assets/img/Capri6.jpg
     image_path: assets/img/Capri6.jpg
   - url: /assets/img/Path2.jpg
-    image_path: assets/img/Path3.jpg
+    image_path: assets/img/Path2.jpg
   - url: /assets/img/Path3.jpg
     image_path: assets/img/Path3.jpg
   - url: /assets/img/Path4.jpg
