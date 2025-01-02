@@ -25,5 +25,8 @@ feature_row:
     excerpt: "I am a senior at Vanderbilt and love all that Nashville has to offer!"
 ---
 
+{% include feature_row id="intro" type="center" %}
+
 {% include feature_row %}
+
 
