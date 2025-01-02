@@ -2,8 +2,8 @@
 title: "Bars"
 excerpt: "Fun places to go out."
 header:
-  image: assets/img/Tapas.jpg
-  teaser: assets/img/Paella.jpg
+  image: assets/img/Bars3.jpg
+  teaser: assets/img/Bars1.jpg
 
 ---
 
