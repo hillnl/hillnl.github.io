@@ -29,6 +29,12 @@ gallery:
     image_path: assets/img/Path3.jpg
   - url: /assets/img/Path4.jpg
     image_path: assets/img/Path4.jpg
+  - url: /assets/img/Pompeii2.JPG
+    image_path: assets/img/Pompeii2.JPG
+  - url: /assets/img/Pompeii3.JPG
+    image_path: assets/img/Pompeii3.JPG
+  - url: /assets/img/Pompeii4.JPG
+    image_path: assets/img/Pompeii4.JPG
 ---
 
 ## Overall
