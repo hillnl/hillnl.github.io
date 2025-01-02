@@ -1,6 +1,6 @@
 ---
 title: "Malta"
-excerpt: "Malta is such a beautiful country with so much history!"
+excerpt: "Stunning country with so much history and crystal-clear waters in the middle of the Mediterranean Sea."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
