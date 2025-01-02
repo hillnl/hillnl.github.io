@@ -5,15 +5,14 @@ header:
   image: /assets/img/Sorrento2.jpg
   teaser: /assets/img/Sorrento1.jpg
 gallery:
-  - url: /assets/img/pathgods1.jpg
-    image_path: assets/img/pathgods1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/Sorrento3.jpg
+    image_path: assets/img/Sorrento3.jpg
+  - url: /assets/img/Sorrento4.jpg
+    image_path: assets/img/Sorrento4.jpg
+  - url: /assets/img/Bagni2.jpg
+    image_path: assets/img/Bagni2.jpg
+  - url: /assets/img/Bagni3.jpg
+    image_path: assets/img/Bagni3.jpg
 ---
 
 ## Overall
