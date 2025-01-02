@@ -1,5 +1,5 @@
 ---
-title: "Florence"
+title: "Florence, Italy"
 excerpt: "Beautiful, walkable, and artistic city that was the starting point of the Renaissance."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
