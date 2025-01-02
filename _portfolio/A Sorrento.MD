@@ -50,7 +50,7 @@ Overall rating: 10/10. I LOVE Sorrento!! This was one of my favorite trips of al
 
 * Day trip to Pompeii: I’m so glad we went and got to see Pompeii. It was so much bigger than I imagined, so I feel like we only got to see a small portion of it. We ended up buying the audio guide, and I think that was really worth it to learn the history. It was just a quick train ride away from Sorrento, so it worked out really well as a day trip!
 
-![Pompeii](/assets/img/Pompeii1.jpg)
+![Pompeii](/assets/img/Pompeii1.JPG)
 
 ## Restaurants
 * Frankie’s Pizza Bar: incredible pizza and pasta, and the best meatballs ever! Frankie was our airbnb host, and he’s the BEST! He gave us free shots of limoncello because we stayed with him, and he was so fun to talk to. We literally ate here 2 out of our 3 nights because it was so good!
