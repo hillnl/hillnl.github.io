@@ -25,4 +25,5 @@ Overall rating:
 ## Other
 *
 
-## Gallery
+## Photo Gallery
+{% include gallery %}
