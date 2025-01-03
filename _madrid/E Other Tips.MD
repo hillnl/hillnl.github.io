@@ -2,7 +2,7 @@
 title: "General Tips"
 excerpt: "General tips for your stay."
 header:
-  image: assets/img/Activities2.jpg
+  image: assets/img/Tips1.jpg
   teaser: assets/img/Activities1.jpg
 
 ---
