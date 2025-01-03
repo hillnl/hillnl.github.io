@@ -2,8 +2,8 @@
 title: "Malta"
 excerpt: "Stunning country with so much history and crystal-clear waters in the middle of the Mediterranean Sea."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/Malta1.jpg
+  teaser: /assets/img/Malta2.jpg
 gallery:
   - url: /assets/img/Sorrento3.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
