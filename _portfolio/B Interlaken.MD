@@ -3,7 +3,7 @@ title: "Interlaken, Switzerland"
 excerpt: "Scenic mountain town with beautiful nature and so much to do."
 header:
   image: /assets/img/Interlaken1.jpg
-  teaser: /assets/img/Interlaken2.png
+  teaser: /assets/img/Interlaken2.jpg
 gallery:
   - url: /assets/img/Sorrento3.jpg
     image_path: assets/img/Slide-3.png
