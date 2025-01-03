@@ -2,8 +2,8 @@
 title: "Food"
 excerpt: "Food you need to try; my recs as a Madrid local."
 header:
-  image: assets/img/Activities2.jpg
-  teaser: assets/img/Activities1.jpg
+  image: assets/img/Food1.jpg
+  teaser: assets/img/Food2.jpg
 
 ---
 
