@@ -1,6 +1,6 @@
 ---
 title: "Activities"
-excerpt: "Great things to do in the city"
+excerpt: "Great things to do in the city."
 header:
   image: assets/img/Activities2.jpg
   teaser: assets/img/Retiro.jpg
