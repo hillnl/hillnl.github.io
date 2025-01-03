@@ -5,12 +5,12 @@ header:
   image: /assets/img/Zurich1.jpg
   teaser: /assets/img/Zurich2.jpg
 gallery:
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/Zurich3.HEIC
+    image_path: assets/img/Zurich3.HEIC
+  - url: /assets/img/Zurich4.HEIC
+    image_path: assets/img/Zurich4.HEIC
+  - url: /assets/img/Zurich5.HEIC
+    image_path: assets/img/Zurich5.HEIC
 ---
 
 ## Overall
@@ -19,7 +19,8 @@ Overall rating: 6/10. There honestly wasn’t a ton to do in Zurich so I’m gla
 ## Activities
 * Lindt Chocolate Factory: my favorite part of Zurich!! We did the audio tour and you get so many free samples. We brought a tote bag and sneakily took a lot of the truffles home at the end, so I would recommend doing that too! 
 
-![Lindt]()
+![Lindt](/assets/img/Lindt.HEIC)
+
 * Grossmunster and Fraumunster towers: two towers separated by a bridge and river. We went to the top of Grossmunster and then walked along the docks and bridge in between the two towers. 
 
 ## Hostel
