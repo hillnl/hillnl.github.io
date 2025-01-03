@@ -18,6 +18,8 @@ Overall rating: 6/10. There honestly wasn’t a ton to do in Zurich so I’m gla
 
 ## Activities
 * Lindt Chocolate Factory: my favorite part of Zurich!! We did the audio tour and you get so many free samples. We brought a tote bag and sneakily took a lot of the truffles home at the end, so I would recommend doing that too! 
+
+![Lindt]()
 * Grossmunster and Fraumunster towers: two towers separated by a bridge and river. We went to the top of Grossmunster and then walked along the docks and bridge in between the two towers. 
 
 ## Hostel
