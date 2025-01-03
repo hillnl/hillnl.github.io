@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Madrid Recommendations:
+My Madrid Recommendations:
