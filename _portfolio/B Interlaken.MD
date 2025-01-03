@@ -5,12 +5,20 @@ header:
   image: /assets/img/Interlaken1.jpg
   teaser: /assets/img/Interlaken2.jpg
 gallery:
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Slide-3.png
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Slide-2.png
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Slide-4.png
+  - url: /assets/img/Interlaken3.HEIC
+    image_path: assets/img/Interlaken3.HEIC
+  - url: /assets/img/Interlaken4.HEIC
+    image_path: assets/img/Interlaken4.HEIC
+  - url: /assets/img/Interlaken6.HEIC
+    image_path: assets/img/Interlaken6.HEIC
+  - url: /assets/img/Kayaking2.JPG
+    image_path: assets/img/Kayaking2.JPG
+  - url: /assets/img/Kayaking3.JPG
+    image_path: assets/img/Kayaking3.JPG
+  - url: /assets/img/Lauterbrunnen2.JPG
+    image_path: assets/img/Lauterbrunnen2.JPG
+  - url: /assets/img/Lauterbrunnen3.HEIC
+    image_path: assets/img/Lauterbrunnen3.HEIC
    
 ---
 
