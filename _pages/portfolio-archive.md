@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-My trips and recommendations:
+My Trips and Recommendations:
