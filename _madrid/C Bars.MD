@@ -1,5 +1,5 @@
 ---
-title: "Bars"
+title: "Bars and Clubs"
 excerpt: "Fun places to go out."
 header:
   image: assets/img/Bars3.jpg
