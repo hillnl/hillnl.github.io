@@ -21,7 +21,7 @@ Overall rating: 9/10. Malta is such a beautiful country with so much history! It
   * This is the private boat tour that we did: [Private boat tour](https://www.tripadvisor.com/AttractionProductReview-g190320-d25846854-Private_Boat_Trips_Charters_Comino_Blue_Lagoon_Malta_Gozo-Island_of_Malta.html). 
   * This is the public boat tour that we originally booked that someone recommended to us, but it got cancelled: [Public boat tour](https://www.viator.com/tours/Malta/Gozo-and-Comino-Islands-including-Blue-Lagoon-Crystal-Lagoon-and-caves/d4141-86704P2).
 * Valletta: the historic part of Malta and its capital. Really fun to walk around, explore the city, and shop!
-Upper and Lower Barrakka Gardens: pretty garden with beautiful views of the city. You can watch them fire cannons here too, which was cool!
+* Upper and Lower Barrakka Gardens: pretty garden with beautiful views of the city. You can watch them fire cannons here too, which was cool!
 * St. Julien’s: this is the town we stayed in. It is seaside and has a bunch of bars and restaurants. The main strip is good for going out!
 * Balluta Bay: a nice, small, sandy beach in a small cove in St. Julians Bay, and it’s right next to a lot of restaurants! Not the kind of American beach though, it’s super small but just cute to walk by.
 * Independence Garden: great place to watch the sunset and a 10 min walk from the center of St. Julien’s.
