@@ -2,8 +2,8 @@
 title: "Zurich, Switzerland"
 excerpt: "Luxurious city and home of the Lindt Chocolate Factory."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/Zurich1.jpg
+  teaser: /assets/img/Zurich2.jpg
 gallery:
   - url: /assets/img/Sorrento3.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
