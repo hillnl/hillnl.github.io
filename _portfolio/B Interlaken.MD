@@ -13,8 +13,10 @@ gallery:
     image_path: assets/img/Interlaken6.HEIC
   - url: /assets/img/Kayaking2.JPG
     image_path: assets/img/Kayaking2.JPG
-  - url: /assets/img/Kayaking3.JPG
-    image_path: assets/img/Kayaking3.JPG
+  - url: /assets/img/Kayaking4.jpg
+    image_path: assets/img/Kayaking4.jpg
+  - url: /assets/img/Kayaking5.jpg
+    image_path: assets/img/Kayaking5.jpg
   - url: /assets/img/Lauterbrunnen2.JPG
     image_path: assets/img/Lauterbrunnen2.JPG
   - url: /assets/img/Lauterbrunnen3.HEIC
