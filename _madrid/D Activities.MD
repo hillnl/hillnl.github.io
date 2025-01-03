@@ -16,7 +16,8 @@ header:
 * Reina Sofia Museum: modern and contemporary art museum. You can see Picasso’s Guernica here!
 * Sorolla Museum: museum dedicated to the life and art of Joaquin Sorolla that’s located in his house. 
 * Royal Palace: you can get tickets to walk around inside it, and it’s really pretty!
-* Wine tasting: 
+* Wine tasting: we did a wine tasting that was really fun. Our sommelier explained the history of Spanish wine and we just got to drink and enjoy! 
+  * This is the one we did: [Wine Tasting](https://www.madriddarracott.com)
 * Gran Via: main street with a lot of shops and the classic clothing stores like Zara, Primark, Mango, H&M, and more! If you want some cute boutique clothing stores, walk along Fuencarral, which is right next to it. My apartment during my semester abroad was 2 min from Gran Via and on Fuencarral! Ideal location, so fun, and so busy all the time!
 * Plaza Mayor: it used to be the city center and where they executed people in old times lol. So it’s very historic! Now it’s always busy and just cool to walk around. 
 * Puerta de Sol: current city center. You can see El Oso y El Madroño, which is a bear statue, that is the coat of arms for Madrid. You’ll also see that symbol on trash cans and grates throughout the city! 
