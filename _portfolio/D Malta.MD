@@ -11,6 +11,16 @@ gallery:
     image_path: assets/img/Malta3.JPG
   - url: /assets/img/Malta4.JPG
     image_path: assets/img/Malta4.JPG
+  - url: /assets/img/Malta5.jpg
+    image_path: assets/img/Malta5.jpg
+  - url: /assets/img/Malta6.jpg
+    image_path: assets/img/Malta6.jpg
+  - url: /assets/img/Malta7.jpg
+    image_path: assets/img/Malta7.jpg
+  - url: /assets/img/Malta8.jpg
+    image_path: assets/img/Malta8.jpg
+  - url: /assets/img/Malta9.jpg
+    image_path: assets/img/Malta9.jpg
 ---
 
 ## Overall
