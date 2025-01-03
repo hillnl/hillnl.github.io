@@ -5,12 +5,12 @@ header:
   image: /assets/img/Malta1.jpg
   teaser: /assets/img/Malta2.jpg
 gallery:
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/Maltaboat1.JPG
+    image_path: assets/img/Maltaboat1.JPG
+  - url: /assets/img/Malta3.JPG
+    image_path: assets/img/Malta3.JPG
+  - url: /assets/img/Malta4.JPG
+    image_path: assets/img/Malta4.JPG
 ---
 
 ## Overall
@@ -18,6 +18,9 @@ Overall rating: 9/10. Malta is such a beautiful country with so much history! It
 
 ## Activities
 * Boat tour: we did a private half day boat tour that was incredible! Originally we had booked a big group tour, but it was so windy it ended up being cancelled. The private tour with 4 of my friends ended up being incredible though!! We sailed around some groves and caves and rock formations, then went by Gozo and got to see it from the coast. We stopped at a few swimming spots where we could snorkel and at a few cliff jumping spots where we could jump. Then we sailed to a little beach area and got to lay in the sand. Our last stop was the Blue Lagoon, which was a naturally secluded area with crystal blue water that was spectacular! It was such an amazing day with insanely pretty views! And our boat guide let us hang out for 2 more hours on the boat so we really got our money’s worth! 
+
+![Boat Tour](/assets/img/Maltaboat2.jpg)
+
   * This is the private boat tour that we did: [Private boat tour](https://www.tripadvisor.com/AttractionProductReview-g190320-d25846854-Private_Boat_Trips_Charters_Comino_Blue_Lagoon_Malta_Gozo-Island_of_Malta.html). 
   * This is the public boat tour that we originally booked that someone recommended to us, but it got cancelled: [Public boat tour](https://www.viator.com/tours/Malta/Gozo-and-Comino-Islands-including-Blue-Lagoon-Crystal-Lagoon-and-caves/d4141-86704P2).
 * Valletta: the historic part of Malta and its capital. Really fun to walk around, explore the city, and shop!
