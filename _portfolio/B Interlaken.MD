@@ -24,7 +24,7 @@ Overall rating: 10/10. I LOVE Interlaken so much!! Such a cute town surrounded b
 * Lauterbrunnen Valley Hike: We took a 25 min bus from Interlaken that was so pretty and then did a walk along a paved path. You’re surrounded by mountains and these super tall cliffs with waterfalls! Once you get to the end after about an hour and a half of walking, you can take a bus back to Lauterbrunnen, and then another bus back to Interlaken. Definitely recommend for a half-day activity. You can also do a day trip to Grindelwald from Interlaken, which I’ve heard is also great!
 
 ## Hostel
-** Balmer’s Hostel: oldest and most famous hostel in Interlaken, and it was awesome! There were a ton of study abroad students there, which was really fun. The rooms were nice, the location was perfect, and there was a hot tub. There’s also a club in the basement of it, which was almost empty the two nights we went but still very fun honestly!
+* Balmer’s Hostel: oldest and most famous hostel in Interlaken, and it was awesome! There were a ton of study abroad students there, which was really fun. The rooms were nice, the location was perfect, and there was a hot tub. There’s also a club in the basement of it, which was almost empty the two nights we went but still very fun honestly!
 
 ## Transportation
 * We took buses to get to most places, and we took a train to get from Zurich to Interlaken. Buy your bus and train tickets because they will check, and one of my friends got a $150 fine for not having a ticket. 
