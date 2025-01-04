@@ -2,8 +2,8 @@
 title: "Lisbon, Portugal"
 excerpt: "Lively, affordable city known for its colorful tiled buildings and its hills with stunning views."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/Lisbon1.JPG
+  teaser: /assets/img/Lisbon2.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
