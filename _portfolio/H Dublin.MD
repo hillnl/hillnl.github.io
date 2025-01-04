@@ -2,8 +2,8 @@
 title: "Dublin, Ireland"
 excerpt: "Chaotic but great experience for St. Patty’s day thanks to the city’s lively pub culture and nearby scenic cliffs."
 header:
-  image: /assets/img/Dublin1.heic
-  teaser: /assets/img/Dublin2.heic
+  image: /assets/img/Dublin1.jpg
+  teaser: /assets/img/Dublin2.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
