@@ -2,7 +2,7 @@
 title: "Morocco"
 excerpt: "Once in a lifetime experience with incredible views of the Sahara Desert."
 header:
-  image: /assets/img/Morocco1.heic
+  image: /assets/img/Morocco1.jpeg
   teaser: /assets/img/Morocco2.JPG
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
