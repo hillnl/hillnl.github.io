@@ -1,6 +1,6 @@
 ---
 title: "Morocco"
-excerpt: "Picturesque fairytale-like city with a fun nightlife."
+excerpt: "Once in a lifetime experience with incredible views of the Sahara Desert."
 header:
   image: /assets/img/Morocco1.heic
   teaser: /assets/img/Morocco2.JPG
