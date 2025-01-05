@@ -1,5 +1,5 @@
 ---
-title: "Adventures Abroad"
+title: "Nicole's Adventures Abroad"
 layout: splash
 header:
   overlay_color: "#000"
