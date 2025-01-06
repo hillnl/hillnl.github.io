@@ -44,7 +44,7 @@ Overall rating:  6/10. This was such a once in a lifetime experience, and I’m 
 * CityLife Madrid: if you are studying abroad in Madrid, I highly recommend booking your tour of Morocco through CityLife. It’s specifically for students studying abroad in Madrid, and they plan everything! They tell you what flights to book and then almost everything else is paid for, including buses to take you from the airport to the hotel. This sells out so early though!! We looked in early February and it was already sold out for the semester. We booked a different group tour instead. It was also through CityLife, but not as structured, and not all students. Our tour started in Marrakesh and we drove to the desert while making some stops at tourist places. We spent one night with the group at a hotel on the way. Once we finally got to the desert, we did sand boarding, a camel ride at sunset, and choice of camel ride or ATVing at sunrise! Such cool activities! After spending the night glamping in tents in the desert, we then drove to Fes. 
   * This is the one that we booked: [Morocco Tour](https://marrakechcitylife.com/tour/marrakech-to-fes-tour-desert/)
 
-![Morocco Tour](/assets/img/Morocco3.HEIC)
+![Morocco Tour](/assets/img/MoroccoTour.jpg)
 
 ## Other
 * Bring linens or light clothes that cover you up for walking around the cities. It's really hot, but you will get catcalled even if you are totally covered up. 
