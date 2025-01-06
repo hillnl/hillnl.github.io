@@ -52,7 +52,7 @@ Overall rating: 8/10. Lisbon is a great city! It felt lively and fun. There was 
 
 * Sol Restaurante e Jardim: restaurant/patio overlooking the city of Lisbon. Such a great view! I’d recommend going for lunch. Bring cash though because they only accept cash.
 
-![Lisbon Patio](/assets/img/LisbonPatio.heic)
+![Lisbon Patio](/assets/img/LisbonPatio.jpg)
 
 * Time Out Market: we didn’t have enough time to go, but I heard it’s a cool indoor market with a lot of restaurants.
 
