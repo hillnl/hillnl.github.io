@@ -5,15 +5,13 @@ header:
   image: /assets/img/Lisbon1.JPG
   teaser: /assets/img/Lisbon2.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/Lisbon4.HEIC
+    image_path: assets/img/Lisbon4.HEIC
+  - url: /assets/img/Lisbon5.JPG
+    image_path: assets/img/Lisbon5.JPG
+  - url: /assets/img/Lisbon6.JPG
+    image_path: assets/img/Lisbon6.JPG
+
 ---
 
 ## Overall
@@ -35,10 +33,9 @@ Overall rating: 8/10. Lisbon is a great city! It felt lively and fun. There was 
 
 * Walk around Cais do Sodre: fun part of Lisbon with food and bars. This is also where “Pink Street” is, which is a touristy, cute little pink street. It’s also fun to walk the Ribeira das Naus boardwalk, which is right along the coast. Just a fun area to explore!
 
-![Lisbon pink street](/assets/img/LisbonPink.JPG)
+![Lisbon pink street](/assets/img/Lisbonpink.JPG)
 
 * Barrio alto: Area with tons of fun bars.
-
 
 ## Restaurants
 * Pastéis de Belém: famous pastry shop known for its pasteles de nata!
@@ -46,7 +43,11 @@ Overall rating: 8/10. Lisbon is a great city! It felt lively and fun. There was 
 ![Lisbon Pastry](/assets/img/LisbonPastry.HEIC)
 
 * Sol Restaurante e Jardim: restaurant/patio overlooking the city of Lisbon. Such a great view! I’d recommend going for lunch. Bring cash though because they only accept cash.
+
+![Lisbon Patio](/assets/img/LisbonPatio.heic)
+
 * Time Out Market: we didn’t have enough time to go, but I heard it’s a cool indoor market with a lot of restaurants.
+
 * Landeau Chocolate: chocolate cake place in LX Factory.
 
 ## Transportation
