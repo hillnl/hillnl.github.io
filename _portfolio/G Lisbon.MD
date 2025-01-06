@@ -22,14 +22,29 @@ Overall rating: 8/10. Lisbon is a great city! It felt lively and fun. There was 
 ## Activities
 * Sunset boat tour: We did a boat tour on the Tagus River as the sun set. We sailed on the coast of Lisbon and got to see historic landmarks and enjoy some Portuguese wine. Super fun!
   * This is the boat tour we booked but there are a lot of options: [Boat Tour](https://www.viator.com/tours/Lisbon/Sunset-Sailing-with-snacks-and-drinks/d538-174931P1)
+
+![Lisbon boat](/assets/img/LisbonBoat.JPG)
+
 * Guided tour of Sintra, Cascáis, and Cabo da Roca: we did a full day tour, and it was really interesting and fun! Our driver drove us around and would drop us off and let us explore each place for an hour or so. We drove to Cascais first and got to walk by the water, do some shopping, and explore the cute town. Then we drove to Cabo da Roca, which is the westernmost point of Europe and has beautiful views of cliffs overlooking the ocean. Next, we went to Sintra, which was a really pretty town and got a Portuguese lunch. At Sintra, we drove to Pena Palace, which is a famous castle at the top of Sintra that has really cool vibrant architecture and cool views overlooking the city and the rest of the area.
+
+![Lisbon Palace](/assets/img/LisbonPalace.HEIC)
+
 * Castelo de São Jorge: historic castle at the top of Lisbon. It was a cool area with ruins, pretty views, and peacocks walking around!
+
+![Lisbon Castle](/assets/img/Lisbon castle.JPG)
+
 * Walk around Cais do Sodre: fun part of Lisbon with food and bars. This is also where “Pink Street” is, which is a touristy, cute little pink street. It’s also fun to walk the Ribeira das Naus boardwalk, which is right along the coast. Just a fun area to explore!
+
+![Lisbon pink street](/assets/img/LisbonPink.JPG)
+
 * Barrio alto: Area with tons of fun bars.
 
 
 ## Restaurants
 * Pastéis de Belém: famous pastry shop known for its pasteles de nata!
+
+![Lisbon Pastry](/assets/img/LisbonPastry.HEIC)
+
 * Sol Restaurante e Jardim: restaurant/patio overlooking the city of Lisbon. Such a great view! I’d recommend going for lunch. Bring cash though because they only accept cash.
 * Time Out Market: we didn’t have enough time to go, but I heard it’s a cool indoor market with a lot of restaurants.
 * Landeau Chocolate: chocolate cake place in LX Factory.
