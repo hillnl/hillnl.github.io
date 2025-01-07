@@ -5,15 +5,14 @@ header:
   image: /assets/img/Dublin1.jpg
   teaser: /assets/img/Dublin2.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/Dublin3.HEIC
+    image_path: assets/img/Dublin3.HEIC
+  - url: /assets/img/Dublin4.JPG
+    image_path: assets/img/Dublin4.JPG
+  - url: /assets/img/Dublin5.jpg
+    image_path: assets/img/Dublin5.jpg
+  - url: /assets/img/Dublin6.jpg
+    image_path: assets/img/Dublin6.jpg
 ---
 
 ## Overall
