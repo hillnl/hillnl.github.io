@@ -19,6 +19,16 @@ gallery:
     image_path: assets/img/Lisbon9.JPG
   - url: /assets/img/Lisbon10.HEIC
     image_path: assets/img/Lisbon10.HEIC
+  - url: /assets/img/Lisbon11.HEIC
+    image_path: assets/img/Lisbon11.HEIC
+  - url: /assets/img/Lisbon12.HEIC
+    image_path: assets/img/Lisbon12.HEIC
+  - url: /assets/img/Lisbon13.JPG
+    image_path: assets/img/Lisbon13.JPG
+  - url: /assets/img/Lisbon14.HEIC
+    image_path: assets/img/Lisbon14.HEIC
+  - url: /assets/img/Lisbon15.HEIC
+    image_path: assets/img/Lisbon15.HEIC
 
 ---
 
