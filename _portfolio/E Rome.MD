@@ -5,12 +5,25 @@ header:
   image: /assets/img/Rome1.jpg
   teaser: /assets/img/Rome2.jpg
 gallery:
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-  - url: /assets/img/Sorrento3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/Rome3.JPG
+    image_path: assets/img/Rome3.JPG
+  - url: /assets/img/Rome4.JPG
+    image_path: assets/img/Rome4.JPG
+  - url: /assets/img/Rome5.JPG
+    image_path: assets/img/Rome5.JPG
+  - url: /assets/img/Rome6.HEIC
+    image_path: assets/img/Rome6.HEIC
+  - url: /assets/img/Rome7.JPG
+    image_path: assets/img/Rome7.JPG
+  - url: /assets/img/Rome8.HEIC
+    image_path: assets/img/Rome8.HEIC
+  - url: /assets/img/Rome9.HEIC
+    image_path: assets/img/Rome9.HEIC
+  - url: /assets/img/Rome10.HEIC
+    image_path: assets/img/Rome10.HEIC
+  - url: /assets/img/Rome11.JPG
+    image_path: assets/img/Rome11.JPG
+
 ---
 
 ## Overall
