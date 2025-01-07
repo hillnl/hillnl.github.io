@@ -22,15 +22,27 @@ Overall rating: 7/10. I went for St. Patrick’s Day, and it was really fun!! Du
 
 ## Activities
 * Cliffs of Howth: beautiful walk along the cliffs with gorgeous views and the beach below. About an hour away from Dublin, but there’s a bus that takes you to Howrh and then another bus that takes you right to the start of the walk. This was definitely one of my favorite parts of the weekend! 
+
+![Howth](/assets/img/DublinHowth.jpg)
+
 * Diceys: main bar that most Vandy people go to for St. Patty’s day. It’s huge and has a big outdoor area and a ton of indoor areas. Make sure to get your tickets at least a month before because they will sell out. So worth it though and so fun to see a bunch of Vandy friends! 
+
+![Diceys](/assets/img/DublinDiceys.jpg)
+
 * St. Pattrick’s Day Parade: one of the biggest parades in the world! It’s two hours long and had so many random parades but it was really cool to see. 
+
+![Parade](/assets/img/DublinParade.jpg)
+
 * Guinness Factory: really popular tourist attraction. You get a tour of the Guinness factory and then get a complimentary Guinness on the roof of the building. We didn’t do it but I kinda wish we had. Make sure to buy tickets beforehand!
+
 * Pubs on Camden Street: we didn’t have tickets to Dicey’s on Saturday, so we ended up bar hopping, and it was really fun. We got to see a lot of bars with different vibes, and it was a lot less busy than the Temple Bar area. 
+
 * National Gallery of Ireland: free, pretty big, and has really pretty art!
 
+![Gallery](/assets/img/DublinGallery.jpg)
 
 ## Restaurants
-* POG: really good brunch spot. 
+* POG: good brunch spot. 
 
 ## Transportation
 * Public transportation was actually awesome! We were worried it’d be bad during St. Patty’s weekend, but it was super convenient and cheap. We bought a three day pass for the buses which was perfect.
