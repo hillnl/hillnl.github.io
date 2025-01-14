@@ -19,22 +19,22 @@ gallery:
     image_path: assets/img/Morocco9.jpg
   - url: /assets/img/Morocco10.JPG
     image_path: assets/img/Morocco10.JPG
-  - url: /assets/img/Morocco11.HEIC
-    image_path: assets/img/Morocco11.HEIC
-  - url: /assets/img/Morocco12.HEIC
-    image_path: assets/img/Morocco12.HEIC
-  - url: /assets/img/Morocco13.HEIC
-    image_path: assets/img/Morocco13.HEIC
-  - url: /assets/img/Morocco14.HEIC
-    image_path: assets/img/Morocco14.HEIC
-  - url: /assets/img/Morocco15.HEIC
-    image_path: assets/img/Morocco15.HEIC
-  - url: /assets/img/Morocco16.HEIC
-    image_path: assets/img/Morocco16.HEIC
-  - url: /assets/img/Morocco17.HEIC
-    image_path: assets/img/Morocco17.HEIC
-  - url: /assets/img/Morocco18.HEIC
-    image_path: assets/img/Morocco18.HEIC
+  - url: /assets/img/Morocco11.jpg
+    image_path: assets/img/Morocco11.jpg
+  - url: /assets/img/Morocco12.jpg
+    image_path: assets/img/Morocco12.jpg
+  - url: /assets/img/Morocco13.jpg
+    image_path: assets/img/Morocco13.jpg
+  - url: /assets/img/Morocco14.jpg
+    image_path: assets/img/Morocco14.jpg
+  - url: /assets/img/Morocco15.jpg
+    image_path: assets/img/Morocco15.jpg
+  - url: /assets/img/Morocco16.jpg
+    image_path: assets/img/Morocco16.jpg
+  - url: /assets/img/Morocco17.jpg
+    image_path: assets/img/Morocco17.jpg
+  - url: /assets/img/Morocco18.jpg
+    image_path: assets/img/Morocco18.jpg
 ---
 
 ## Overall
