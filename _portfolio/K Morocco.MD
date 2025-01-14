@@ -5,18 +5,18 @@ header:
   image: /assets/img/Morocco1.jpeg
   teaser: /assets/img/Morocco2.JPG
 gallery:
-  - url: /assets/img/Morocco4.HEIC
-    image_path: assets/img/Morocco4.HEIC
+  - url: /assets/img/Morocco4.jpg
+    image_path: assets/img/Morocco4.jpg
   - url: /assets/img/Morocco5.JPG
     image_path: assets/img/Morocco5.JPG
-  - url: /assets/img/Morocco6.HEIC
-    image_path: assets/img/Morocco6.HEIC
-  - url: /assets/img/Morocco7.HEIC
-    image_path: assets/img/Morocco7.HEIC
-  - url: /assets/img/Morocco8.HEIC
-    image_path: assets/img/Morocco8.HEIC
-  - url: /assets/img/Morocco9.HEIC
-    image_path: assets/img/Morocco9.HEIC
+  - url: /assets/img/Morocco6.jpg
+    image_path: assets/img/Morocco6.jpg
+  - url: /assets/img/Morocco7.jpg
+    image_path: assets/img/Morocco7.jpg
+  - url: /assets/img/Morocco8.jpg
+    image_path: assets/img/Morocco8.jpg
+  - url: /assets/img/Morocco9.jpg
+    image_path: assets/img/Morocco9.jpg
   - url: /assets/img/Morocco10.JPG
     image_path: assets/img/Morocco10.JPG
   - url: /assets/img/Morocco11.HEIC
