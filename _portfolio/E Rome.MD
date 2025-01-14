@@ -31,10 +31,22 @@ Overall rating: 8/10. I really liked Rome because it’s so full of history! You
 
 ## Activities
 * Tour of the Colosseum, Roman Forum, and Palatine Hill: do a guided tour!! We were debating just walking around, but it’s so worth it to spend a little more and get all the history. We booked our tour through GetYourGuide, and it was awesome! The tour guide was so passionate about it and made it so fun!
+
+![Rome tour](/assets/img/RomeTour.JPG)
+
 * Tour of the Vatican Museums, Sistine Chapel, and St. Peter’s basilica: I would also recommend doing a guided tour for all of these because you get to skip the line. The history is so interesting, and I feel like the tour keeps you moving at a good pace. St. Peter’s Basilica ended up being closed when we went, so make sure to be aware of that when booking tours. The Vatican museum and Sistine Chapel were incredible, and it was really cool to see all the beautiful architecture and art everywhere!
   * Something to note for the Vatican and some other museums: dress conservatively. There are dress codes for some of these so make sure you are covered up if you need to be.
+
+![Vatican](/assets/img/RomeVatican.JPG)
+
 * Piazza Venecia: you can go to the roof of this building to get an incredible 360 view of Rome! Our hostel owner told us about it, and I’m so glad he did. 
+
+![Rome Piazza](/assets/img/RomePiazza.JPG)
+
 * Trevi Fountain: classic tourist spot. It’s always pretty busy, but I think it’s worth it to walk by!
+
+![Rome Trevi](/assets/img/RomeTrevi.JPG)
+
 * Pantheon: another classic tourist spot, but we didn’t have enough time to see it. 
 
 ## Restaurants
