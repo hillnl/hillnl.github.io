@@ -5,8 +5,8 @@ header:
   image: /assets/img/Dublin1.jpg
   teaser: /assets/img/Dublin2.jpg
 gallery:
-  - url: /assets/img/Dublin3.HEIC
-    image_path: assets/img/Dublin3.HEIC
+  - url: /assets/img/Dublin3.jpg
+    image_path: assets/img/Dublin3.jpg
   - url: /assets/img/Dublin4.JPG
     image_path: assets/img/Dublin4.JPG
   - url: /assets/img/Dublin5.jpg
