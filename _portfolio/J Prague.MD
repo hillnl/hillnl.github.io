@@ -41,7 +41,7 @@ Overall rating: 7/10. I loved this city! It was so cute and fairy tale-like, all
 ## Hostel
 * The Best Spot Hostel: we stayed in a private five person room that was pretty small with communal bathrooms. It wasn’t the best hostel but it was cheap, a great location, and worked well since we weren’t in Prague for very long. I wouldn't have wanted to stay there for more than one night though.
 
-![Prague Hostel](/assets/img/PragueHostel.HEIC)
+![Prague Hostel](/assets/img/PragueHostel.jpg)
 
 ## Photo Gallery
 {% include gallery %}
