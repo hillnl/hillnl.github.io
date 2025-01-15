@@ -15,6 +15,18 @@ gallery:
     image_path: assets/img/Granada6.jpg
   - url: /assets/img/Granada7.jpg
     image_path: assets/img/Granada7.jpg
+  - url: /assets/img/Granada8.jpg
+    image_path: assets/img/Granada8.jpg
+  - url: /assets/img/Granada9.jpg
+    image_path: assets/img/Granada9.jpg
+  - url: /assets/img/Granada10.jpg
+    image_path: assets/img/Granada10.jpg
+  - url: /assets/img/Granada11.jpg
+    image_path: assets/img/Granada11.jpg
+  - url: /assets/img/Granada12.jpg
+    image_path: assets/img/Granada12.jpg
+  - url: /assets/img/Granada13.jpg
+    image_path: assets/img/Granada13.jpg
 ---
 
 ## Overall
