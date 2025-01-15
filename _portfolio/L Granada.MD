@@ -5,16 +5,16 @@ header:
   image: /assets/img/Granada1.jpg
   teaser: /assets/img/Granada2.jpg
 gallery:
-  - url: /assets/img/Granada3.HEIC
-    image_path: assets/img/Granada3.HEIC
-  - url: /assets/img/Granada4.HEIC
-    image_path: assets/img/Granada4.HEIC  
-  - url: /assets/img/Granada5.HEIC
-    image_path: assets/img/Granada5.HEIC
-  - url: /assets/img/Granada6.HEIC
-    image_path: assets/img/Granada6.HEIC
-  - url: /assets/img/Granada7.HEIC
-    image_path: assets/img/Granada7.HEIC
+  - url: /assets/img/Granada3.jpg
+    image_path: assets/img/Granada3.jpg
+  - url: /assets/img/Granada4.jpg
+    image_path: assets/img/Granada4.jpg  
+  - url: /assets/img/Granada5.jpg
+    image_path: assets/img/Granada5.jpg
+  - url: /assets/img/Granada6.jpg
+    image_path: assets/img/Granada6.jpg
+  - url: /assets/img/Granada7.jpg
+    image_path: assets/img/Granada7.jpg
 ---
 
 ## Overall
