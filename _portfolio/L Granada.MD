@@ -5,15 +5,16 @@ header:
   image: /assets/img/Granada1.jpg
   teaser: /assets/img/Granada2.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/Granada3.HEIC
+    image_path: assets/img/Granada3.HEIC
+  - url: /assets/img/Granada4.HEIC
+    image_path: assets/img/Granada4.HEIC  
+  - url: /assets/img/Granada5.HEIC
+    image_path: assets/img/Granada5.HEIC
+  - url: /assets/img/Granada6.HEIC
+    image_path: assets/img/Granada6.HEIC
+  - url: /assets/img/Granada7.HEIC
+    image_path: assets/img/Granada7.HEIC
 ---
 
 ## Overall
