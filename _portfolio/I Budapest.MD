@@ -39,7 +39,7 @@ Overall rating: 7/10. The activities we did were so fun, and the food was good a
 
 * Gellert thermal baths: we did the thermal baths at the Gellert Hotel. It was a little more expensive but honestly worth it cause it felt less busy and less gross haha! Not my favorite activity we did in Budapest, but it felt like a must while we were there cause Budapest is famous for its baths. There’s another bath that is more famous, but I’ve heard it’s also just more crowded and not as clean. 
 
-![Budapest Thermal Baths](/assets/img/BudapestBaths.jpg)
+![Budapest Thermal Baths](/assets/img/BudapestBath.jpg)
 
 * Fisherman’s Bastion and Buda Castle: the main tourist attraction in Budapest, and it was so worth it to walk around! You can take a funicular up to the top and then walk around, or take a golf cart tour that has four or five stops. We did the golf cart tour, and it was perfect because we walked around for a while at each stop and then got in line for the next available golf cart
 
