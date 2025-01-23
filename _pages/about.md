@@ -4,7 +4,7 @@ title: "About Nicole Hill"
 
 ---
 
-## Backround
+## Background
 
 Nicole is a senior at Vanderbilt University majoring in Economics and Math. She studied abroad spring semester of 2024 in Madrid, Spain, attending UC3M. She was also born in Madrid and lived there for ten years before moving to Colorado. 
 
